@@ -48,3 +48,9 @@ Join our community of developers creating universal apps.
 
 - [Expo on GitHub](https://github.com/expo/expo): View our open source platform and contribute.
 - [Discord community](https://chat.expo.dev): Chat with Expo users and ask questions.
+
+- ## Documentacion del proyecto
+- En el siguiente proyecto se realizo una prueba con componentes en un return con un componente de texto, un status bar, y un link que nos sirve para redirijir al profile donde se encuentran los componentes y estilos, todos estos dentro de un componente view el cual dentro de este deja colocar los demas componentes para que no se tengan errores.
+
+- En el archivo profile hay un componente view con un componente de texto y una constante que le da los estilos a esta constante profile.
+- En el archivo _layout hay un componente stack que permiti redirijir a diferentes pantallas.
